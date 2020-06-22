@@ -35,7 +35,7 @@ import { createDrawerNavigator } from '@react-navigation/drawer'; //Para Drawer
 
 ## Uso
 Depois de importar tudo que for necessário, você deve definir que tipo de navegação pretende ter. Se quiser ter uma navegação a partir de botões no seu app faça:
-
+*Estas funções podem ser disparadas a partir de qualquer ação.
 ```js
 function HomeScreen({ navigation }) {
   return (
